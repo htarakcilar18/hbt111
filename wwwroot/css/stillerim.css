@@ -1,0 +1,80 @@
+.kenarlikKirmizi{border:1px solid red;}
+.kenarlikGri{border-width: 1px 0px 1px 0px;
+			border-style: solid;
+			border-color: black;
+			border-top-left-radius: 5px;
+			border-top-right-radius: 5px
+		}
+.kenarlikAltGri{
+	border-bottom:1px solid #e2e2e2;
+}
+
+.margin100{margin-top: 100px}
+
+.margin60{margin-top: 60px}
+
+.dolguGri{background: lightgray}
+
+.kenarlikUstGri{
+	border-top:1px solid #e2e2e2;
+
+}
+.kenarlikSolGri{
+	border-left:1px solid #e2e2e2;
+}
+
+.kenarlikGriTum{
+	border:1px solid #e2e2e2;
+}
+.borderRadius5{
+	border-radius: 5px
+}
+.dolguOrange{
+	background: orange
+}
+
+.yaziRengiRed{color: red}
+
+.dolguKiremit{
+	background: #e60000;
+}
+.yaziRengiBeyaz{
+	color:white !important;
+}
+.yaziRengiGri{
+	color:gray;
+}
+.koyu{
+	font-weight:bold !important;
+}
+.font15{
+	font-size:15px;
+}
+
+.font18{
+	font-size:18px;
+}
+.font24{
+	font-size:24px;
+}
+.font14{
+	font-size:14px;
+}
+.font13{
+	font-size:13px;
+}
+
+.font28{font-size: 28px;}
+.font20{font-size: 20px;}
+
+.ustuCizili{
+	text-decoration: line-through;
+}
+.padding50{
+	padding-left:50px !important;
+
+}
+
+
+
+
